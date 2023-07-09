@@ -28,5 +28,8 @@
 -	BridgeIntersect() соодветно го користи методот Intersection() и проверува дали островите-соседи кои сакаме да ги поврземе веќе имаат постоечки мост на други два соседи помеѓу нив;
 -	Undo() повикува Undo() методи од други класи и користејќи ја спомнатата стек структура ги поништува соодветните акции на корисникот.
 
+##5. Изглед на апликацијата
 
- 
+![Почетно мени]([[Image_URL](https://user-images.githubusercontent.com/109004117/252170356-06f295a9-bed8-407a-966e-505f3e73aed5.PNG)https://user-images.githubusercontent.com/109004117/252170356-06f295a9-bed8-407a-966e-505f3e73aed5.PNG](https://user-images.githubusercontent.com/109004117/252170359-7b402893-4415-431a-a974-f18ac572890d.PNG)https://user-images.githubusercontent.com/109004117/252170359-7b402893-4415-431a-a974-f18ac572890d.PNG)
+
+![Изглед на игра](https://user-images.githubusercontent.com/109004117/252170356-06f295a9-bed8-407a-966e-505f3e73aed5.PNG)
