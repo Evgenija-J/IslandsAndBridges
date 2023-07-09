@@ -30,6 +30,6 @@
 
 ##5. Изглед на апликацијата
 
-![Почетно мени]([[Image_URL](https://user-images.githubusercontent.com/109004117/252170356-06f295a9-bed8-407a-966e-505f3e73aed5.PNG)https://user-images.githubusercontent.com/109004117/252170356-06f295a9-bed8-407a-966e-505f3e73aed5.PNG](https://user-images.githubusercontent.com/109004117/252170359-7b402893-4415-431a-a974-f18ac572890d.PNG)https://user-images.githubusercontent.com/109004117/252170359-7b402893-4415-431a-a974-f18ac572890d.PNG)
+![Почетно мени](https://user-images.githubusercontent.com/109004117/252170359-7b402893-4415-431a-a974-f18ac572890d.PNG)
 
 ![Изглед на игра](https://user-images.githubusercontent.com/109004117/252170356-06f295a9-bed8-407a-966e-505f3e73aed5.PNG)
